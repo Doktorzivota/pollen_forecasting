@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_clean_main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+Warning--entry type for "bionette2023" isn't style-file defined
+--line 21 of file refs.bib
+Warning--entry type for "drugacijipristup2025" isn't style-file defined
+--line 75 of file refs.bib
+Warning--entry type for "metnil2025" isn't style-file defined
+--line 141 of file refs.bib
+Warning--entry type for "histlaw2025" isn't style-file defined
+--line 149 of file refs.bib
+Warning--can't use both volume and number fields in breiman2001
+You've used 40 entries,
+            1791 wiz_defined-function locations,
+            683 strings with 9822 characters,
+and the built_in function-call counts, 8604 in all, are:
+= -- 726
+> -- 454
+< -- 2
++ -- 169
+- -- 129
+* -- 563
+:= -- 1418
+add.period$ -- 117
+call.type$ -- 40
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 41
+duplicate$ -- 357
+empty$ -- 839
+format.name$ -- 129
+if$ -- 1879
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 46
+newline$ -- 200
+num.names$ -- 40
+pop$ -- 129
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 145
+stack$ -- 0
+substring$ -- 506
+swap$ -- 51
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 78
+width$ -- 42
+write$ -- 429
+(There were 5 warnings)
