@@ -4,12 +4,12 @@
 \contentsline {subsection}{\numberline {1.2}Struktura rada}{1}{subsection.1.2}%
 \contentsline {section}{\numberline {2}Teorijski osnov}{2}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Polen i alergije}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Uvod i značaj vremenskih serija}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.2}Vremenske serije}{2}{subsection.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.1}Primeri primene}{3}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2.2}Matematičko definisanje i komponente vremenskih serija}{3}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.2.3}Stacionarnost i testovi stacionarnosti (ADF i KPSS)}{4}{subsubsection.2.2.3}%
-\contentsline {paragraph}{Augmented Dickey-Fuller (ADF) test}{4}{section*.2}%
-\contentsline {paragraph}{KPSS (Kwiatkowski-Phillips-Schmidt-Shin) test}{5}{section*.3}%
+\contentsline {paragraph}{\textit {Augmented Dickey-Fuller} (ADF) test}{4}{section*.2}%
+\contentsline {paragraph}{KPSS (\textit {Kwiatkowski-Phillips-Schmidt-Shin}) test}{5}{section*.3}%
 \contentsline {subsubsection}{\numberline {2.2.4}Box-Cox transformacija}{7}{subsubsection.2.2.4}%
 \contentsline {subsubsection}{\numberline {2.2.5}Beli šum}{7}{subsubsection.2.2.5}%
 \contentsline {subsubsection}{\numberline {2.2.6}Autokorelacija (ACF) i parcijalna autokorelacija (PACF)}{8}{subsubsection.2.2.6}%
@@ -22,53 +22,53 @@
 \contentsline {subsubsection}{\numberline {2.3.6}Kriterijumi za izbor modela}{13}{subsubsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.4}Prophet}{14}{subsection.2.4}%
 \contentsline {subsection}{\numberline {2.5}Random Forest}{15}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Geostatistika i kriging}{16}{subsection.2.6}%
-\contentsline {subsubsection}{\numberline {2.6.1}Spatio-temporal kriging}{18}{subsubsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6}Geostatistika i \textit {kriging}}{16}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Prostorno-vremenski \textit {kriging}}{18}{subsubsection.2.6.1}%
 \contentsline {section}{\numberline {3}Podaci i metode}{20}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Opis podataka}{20}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Veza između meteoroloških parametara i koncentracije polena ambrozije}{22}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Preprocesiranje i čišćenje podataka}{23}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Imputacija}{25}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Modelovanje vremenske serije i podešavanje parametara SARIMAX modela}{29}{subsection.3.5}%
-\contentsline {subsection}{\numberline {3.6}Modelovanje vremenske serije korišćenjem Prophet modela}{31}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Modelovanje koncentracija polena korišćenjem Random Forest modela}{32}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Metrike evaluacije modela}{33}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Rezultati}{35}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Imputacija}{35}{subsection.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.1}Metodologija evaluacije}{35}{subsubsection.4.1.1}%
-\contentsline {paragraph}{\textbf {Upoređene metode imputacije:}}{35}{section*.4}%
-\contentsline {subsubsection}{\numberline {4.1.2}Rezultati po alergenima}{35}{subsubsection.4.1.2}%
-\contentsline {paragraph}{Ambrozija.}{35}{section*.5}%
-\contentsline {paragraph}{Jova.}{35}{section*.6}%
-\contentsline {paragraph}{Trave.}{36}{section*.7}%
-\contentsline {subsubsection}{\numberline {4.1.3}Diskusija}{36}{subsubsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.2}Predikcija}{37}{subsection.4.2}%
-\contentsline {subsubsection}{\numberline {4.2.1}Metodologija evaluacije}{37}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}SARIMAX}{37}{subsubsection.4.2.2}%
-\contentsline {paragraph}{\textbf {Optimalni parametri.}}{37}{section*.8}%
-\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.}}{38}{section*.9}%
-\contentsline {paragraph}{Početak sezone polena.}{39}{section*.10}%
-\contentsline {paragraph}{\textbf {Primer predikcije.}}{39}{section*.11}%
-\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije.}}{40}{section*.12}%
-\contentsline {paragraph}{\textbf {Diskusija.}}{40}{section*.13}%
-\contentsline {subsubsection}{\numberline {4.2.3}Prophet model}{41}{subsubsection.4.2.3}%
-\contentsline {paragraph}{\textbf {Optimalni parametri.}}{41}{section*.14}%
-\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.} }{41}{section*.15}%
-\contentsline {paragraph}{\textbf {Najbolji modeli i metrike.}}{41}{section*.16}%
-\contentsline {paragraph}{\textbf {Početak sezone polena.}}{41}{section*.17}%
-\contentsline {paragraph}{\textbf {Primer predikcije.}}{42}{section*.18}%
-\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije.}}{43}{section*.19}%
-\contentsline {paragraph}{\textbf {Diskusija.}}{44}{section*.20}%
-\contentsline {subsubsection}{\numberline {4.2.4}Random Forest}{44}{subsubsection.4.2.4}%
-\contentsline {paragraph}{\textbf {Optimalni parametri.}}{44}{section*.21}%
-\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.}}{44}{section*.22}%
-\contentsline {paragraph}{\textbf {Najbolji modeli i metrike}}{44}{section*.23}%
-\contentsline {paragraph}{\textbf {Početak sezone polena}}{45}{section*.24}%
-\contentsline {paragraph}{\textbf {Feature importance}}{46}{section*.25}%
-\contentsline {paragraph}{\textbf {Primer predikcije}}{46}{section*.26}%
-\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije}}{47}{section*.27}%
-\contentsline {paragraph}{\textbf {Diskusija.}}{48}{section*.28}%
-\contentsline {subsection}{\numberline {4.3}Uporedna analiza modela}{48}{subsection.4.3}%
-\contentsline {paragraph}{Performanse po modelima i meteo konfiguracijama}{49}{section*.29}%
-\contentsline {section}{\numberline {5}Zaključak}{50}{section.5}%
-\contentsline {section}{Bibliografija}{51}{section*.30}%
+\contentsline {subsection}{\numberline {3.3}Pretprocesiranje i čišćenje podataka}{24}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Imputacija}{27}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Modelovanje vremenske serije i podešavanje parametara SARIMAX modela}{31}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Modelovanje vremenske serije korišćenjem Prophet modela}{34}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Modelovanje koncentracija polena korišćenjem Random Forest modela}{35}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Metrike evaluacije modela}{36}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Rezultati}{38}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Imputacija}{38}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Metodologija evaluacije}{38}{subsubsection.4.1.1}%
+\contentsline {paragraph}{\textbf {Poređenje metoda imputacije:}}{38}{section*.4}%
+\contentsline {subsubsection}{\numberline {4.1.2}Rezultati po alergenima}{38}{subsubsection.4.1.2}%
+\contentsline {paragraph}{Ambrozija.}{38}{section*.5}%
+\contentsline {paragraph}{Jova.}{38}{section*.6}%
+\contentsline {paragraph}{Trave.}{38}{section*.7}%
+\contentsline {subsubsection}{\numberline {4.1.3}Diskusija}{40}{subsubsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.2}Predikcija}{41}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Metodologija evaluacije}{41}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}SARIMAX}{41}{subsubsection.4.2.2}%
+\contentsline {paragraph}{\textbf {Optimalni parametri.}}{41}{section*.8}%
+\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.}}{42}{section*.9}%
+\contentsline {paragraph}{Početak sezone polena.}{42}{section*.10}%
+\contentsline {paragraph}{\textbf {Primer predikcije.}}{43}{section*.11}%
+\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije.}}{44}{section*.12}%
+\contentsline {paragraph}{\textbf {Diskusija.}}{45}{section*.13}%
+\contentsline {subsubsection}{\numberline {4.2.3}Prophet model}{45}{subsubsection.4.2.3}%
+\contentsline {paragraph}{\textbf {Optimalni parametri.}}{45}{section*.14}%
+\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.} }{45}{section*.15}%
+\contentsline {paragraph}{\textbf {Najbolji modeli i metrike.}}{45}{section*.16}%
+\contentsline {paragraph}{\textbf {Početak sezone polena.}}{46}{section*.17}%
+\contentsline {paragraph}{\textbf {Primer predikcije.}}{47}{section*.18}%
+\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije.}}{48}{section*.19}%
+\contentsline {paragraph}{\textbf {Diskusija.}}{49}{section*.20}%
+\contentsline {subsubsection}{\numberline {4.2.4}Random Forest}{49}{subsubsection.4.2.4}%
+\contentsline {paragraph}{\textbf {Optimalni parametri.}}{49}{section*.21}%
+\contentsline {paragraph}{\textbf {Performanse modela po transformaciji.}}{49}{section*.22}%
+\contentsline {paragraph}{\textbf {Najbolji modeli i metrike}}{49}{section*.23}%
+\contentsline {paragraph}{\textbf {Početak sezone polena}}{50}{section*.24}%
+\contentsline {paragraph}{\textbf {Važnost prediktora}}{51}{section*.25}%
+\contentsline {paragraph}{\textbf {Primer predikcije}}{51}{section*.26}%
+\contentsline {paragraph}{\textbf {Klasifikacija nivoa koncentracije}}{53}{section*.27}%
+\contentsline {paragraph}{\textbf {Diskusija.}}{53}{section*.28}%
+\contentsline {subsection}{\numberline {4.3}Uporedna analiza modela}{54}{subsection.4.3}%
+\contentsline {paragraph}{Performanse po modelima i meteo konfiguracijama}{54}{section*.29}%
+\contentsline {section}{\numberline {5}Zaključak}{56}{section.5}%
+\contentsline {section}{Literatura}{57}{section*.30}%

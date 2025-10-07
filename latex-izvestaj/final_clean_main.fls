@@ -1,6 +1,6 @@
-PWD c:\Users\lukam\Desktop\time series\diplomski
+PWD c:\Users\lukam\Desktop\time series\polen\latex-izvestaj
 INPUT C:\Users\lukam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\lukam\Desktop\time series\diplomski\final_clean_main.tex
+INPUT c:\Users\lukam\Desktop\time series\polen\latex-izvestaj\final_clean_main.tex
 OUTPUT final_clean_main.log
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -228,6 +228,20 @@ INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.s
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\diagbox\diagbox.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\diagbox\diagbox.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\capt-of\capt-of.sty
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\capt-of\capt-of.sty
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -381,8 +395,8 @@ INPUT .\final_clean_main.toc
 INPUT .\final_clean_main.toc
 INPUT final_clean_main.toc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
-OUTPUT final_clean_main.toc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+OUTPUT final_clean_main.toc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
@@ -391,6 +405,7 @@ INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\tex-gyre\q-ts1.enc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
@@ -399,6 +414,7 @@ INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmtt12.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
 INPUT .\stkriging\primer.png
 INPUT .\stkriging\primer.png
 INPUT .\stkriging\primer.png
@@ -421,7 +437,6 @@ INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_daily_concentration.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_daily_concentration.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_daily_concentration.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_daily_concentration.png
-INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
 INPUT .\grafici\AMBROZIJA_PANČEVO_daily_concentration.png
 INPUT .\grafici\AMBROZIJA_PANČEVO_daily_concentration.png
 INPUT .\grafici\AMBROZIJA_PANČEVO_daily_concentration.png
@@ -457,13 +472,13 @@ INPUT .\grafici\TRAVE_PANČEVO_daily_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_daily_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_daily_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_daily_concentration.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
-INPUT .\grafici\ambrozija_meteo_gradovi.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
+INPUT .\grafici\meteo_gradovi_AMBROZIJA.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_seasonal_concentration.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_seasonal_concentration.png
 INPUT .\grafici\AMBROZIJA_KRAGUJEVAC_seasonal_concentration.png
@@ -591,6 +606,7 @@ INPUT .\grafici\TRAVE_PANČEVO_imputed_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_imputed_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_imputed_concentration.png
 INPUT .\grafici\TRAVE_PANČEVO_imputed_concentration.png
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
@@ -649,6 +665,7 @@ INPUT .\grafici\AMBROZIJA_POŽAREVAC_30d_nometeo_sarimax.png
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_30d_nometeo_sarimax.png
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_30d_nometeo_sarimax.png
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_30d_nometeo_sarimax.png
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_1d_meteo_prophet.png
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_1d_meteo_prophet.png
 INPUT .\grafici\AMBROZIJA_POŽAREVAC_1d_meteo_prophet.png
@@ -781,6 +798,8 @@ INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\q
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\tex-gyre\qtmr.pfb
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
+INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmbi.pfb
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\lukam\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
