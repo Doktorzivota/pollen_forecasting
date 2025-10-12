@@ -1,0 +1,64 @@
+\section{Diskusija i zaključak}
+
+
+\begin{frame}
+    \frametitle{Zaključak — Glavni rezultati i doprinos}
+
+    \begin{itemize}
+        \item Razvijen je i implementiran sistem za \textbf{predikciju koncentracija polena u Srbiji}, koji kombinuje:
+        \begin{itemize}
+            \item \textbf{Prostorno-vremenski kriging} — za imputaciju nedostajućih podataka.
+            \item \textbf{SARIMAX, Prophet i Random Forest} modele — za predikciju koncentracije polena.
+        \end{itemize}
+
+        \item \textbf{Kriging} uspešno smanjuje diskontinuitet u podacima i omogućava pouzdano modelovanje vremenskih serija.
+
+        \item \textbf{SARIMAX} — najpogodniji za višednevne prognoze (iskorišćava sezonalnost i meteorološke faktore).
+
+        \item \textbf{Random Forest} — najbolji za kratkoročne prognoze (1 dan unapred), jer prepoznaje nelinearne odnose.
+
+        \item \textbf{Prophet} — jednostavan za implementaciju i brz za treniranje, pogodan za dugoročne vremenske serije.
+
+        \item Meteorološki podaci doprinose tačnosti \textbf{kratkoročnih predikcija}, dok kod višednevnih dominira sezonska komponenta.
+    \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+    \frametitle{Zaključak — Značaj, ograničenja i budući rad}
+
+    \textbf{Praktični značaj:}
+    \begin{itemize}
+        \item Pravovremeno informisanje i planiranje terapija kod alergičnih osoba.
+        \item Podrška poljoprivredi i pčelarstvu kroz predikciju perioda cvetanja i polinacije.
+    \end{itemize}
+
+    \vspace{0.2cm}
+    \textbf{Ograničenja:}
+    \begin{itemize}
+        \item Ograničena prostorna rezolucija meteoroloških podataka.
+        \item Nemogućnost modela da prate iznenadne promene koncentracija.
+        \item Nedostatak real-time podataka prilikom treniranja.
+    \end{itemize}
+
+    \vspace{0.2cm}
+    \textbf{Preporuke za budući rad:}
+    \begin{itemize}
+        \item Integracija sa \textbf{real-time meteorološkim i satelitskim podacima}.
+        \item Proširenje \textbf{prostorno-vremenskog kriging-a} na interpolaciju i rekonstrukciju serija.
+        \item Razvoj \textbf{operativne platforme} za javno obaveštavanje o očekivanim koncentracijama polena.
+    \end{itemize}
+
+\end{frame}
+
+
+\begin{frame}
+    \centering
+    \vfill
+    {\Huge \textbf{Hvala na pažnji!}} \\[1em]
+    {\large Pitanja i diskusija} \\[3em]
+    {\small \textit{Beograd, Oktobar 2025.}}
+    \vfill
+\end{frame}
+

@@ -1,0 +1,6 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {2}{Motivacija}{3}{0}{1}
+\beamer@sectionintoc {3}{Podaci o polenu}{4}{0}{2}
+\beamer@sectionintoc {4}{Metodologija}{7}{0}{3}
+\beamer@sectionintoc {5}{Rezultati}{13}{0}{4}
+\beamer@sectionintoc {6}{Diskusija i zaključak}{18}{0}{5}
