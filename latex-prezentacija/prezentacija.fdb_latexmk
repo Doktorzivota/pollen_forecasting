@@ -1,10 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1760303292.82039 "c:/Users/lukam/Desktop/time series/kod/latex-prezentacija/prezentacija.tex" "prezentacija.pdf" "prezentacija" 1760303316.98833 0
+["pdflatex"] 1760304139.83897 "c:/Users/lukam/Desktop/time series/kod/latex-prezentacija/prezentacija.tex" "prezentacija.pdf" "prezentacija" 1760304164.13067 0
   "01Cover.tex" 1760197916 400 3d11ed7c7a9f5ac5d280ff69f9362bb3 ""
   "02Motivation.tex" 1760204243 744 0dd4a58db83faa1d4204e969e3498ee3 ""
   "03PollenData.tex" 1760213693 2170 7226d5073403b914efa798c728a10987 ""
-  "04Methodology.tex" 1760302372 5267 e9ebdf53ea5be11af42205ac4138ae1a ""
-  "05Results.tex" 1760303291 4818 e673831525537fb92d8bb439c07c864e ""
+  "04Methodology.tex" 1760304138 5268 4c7c18d4e544e5795d83bf1d032e55d3 ""
+  "05Results.tex" 1760304137 4838 126d48eefe7f8896f164ac49b0d7fcf3 ""
   "06Conclusion.tex" 1760291563 2435 5826c9c9549a903d949ccd3b982b9137 ""
   "C:/Users/lukam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1760185520 174458 a5cb33d32a02ffff803a2eeb552bf568 ""
   "C:/Users/lukam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1756851896 13257342 8d7bdaaa033af280266f61828141e558 ""
@@ -408,11 +408,11 @@
   "images/mapa_lokacija.png" 1759667038 638937 26858dd82f7471c29bd300eada689924 ""
   "images/meteo.png" 1760212998 258555 7933cee46e6544b197e9e412fe9c874c ""
   "presentationStructure.sty" 1760266766 6919 3956070f536aa9e1a80362cac8f36e70 ""
-  "prezentacija.aux" 1760303316 5677 b64279674c4bb83d7722c600809d98f3 "pdflatex"
-  "prezentacija.nav" 1760303316 2982 ab5c5a4f54f981a1cbfcc7516cf40a93 "pdflatex"
-  "prezentacija.out" 1760303316 646 1feda680e8b7326f0e2fa23f725acdb0 "pdflatex"
+  "prezentacija.aux" 1760304163 5677 b64279674c4bb83d7722c600809d98f3 "pdflatex"
+  "prezentacija.nav" 1760304163 2982 ab5c5a4f54f981a1cbfcc7516cf40a93 "pdflatex"
+  "prezentacija.out" 1760304163 646 1feda680e8b7326f0e2fa23f725acdb0 "pdflatex"
   "prezentacija.tex" 1760291563 1101 6f9227a49bbbbf17941134ec0108b66e ""
-  "prezentacija.toc" 1760303316 280 2a6ae86950d6ed9fde68ab117bfcfbf6 "pdflatex"
+  "prezentacija.toc" 1760304163 280 2a6ae86950d6ed9fde68ab117bfcfbf6 "pdflatex"
   (generated)
   "prezentacija.aux"
   "prezentacija.log"

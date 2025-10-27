@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.3)  12 OCT 2025 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.3)  12 OCT 2025 23:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1869,15 +1869,15 @@ Package rerunfilecheck Info: File `prezentacija.out' has not changed.
 (rerunfilecheck)             Checksum: 1FEDA680E8B7326F0E2FA23F725ACDB0;646.
  ) 
 Here is how much of TeX's memory you used:
- 43990 strings out of 468133
- 910391 string characters out of 5430713
+ 43993 strings out of 468133
+ 910436 string characters out of 5430713
  1342820 words of memory out of 5000000
  71278 multiletter control sequences out of 15000+600000
- 906975 words of font info for 287 fonts, out of 8000000 for 9000
+ 907448 words of font info for 289 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,20n,147p,1262b,1034s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/google/carlito/Crlt-Bold.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/google/carlito/Crlt-Italic.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/google/carlito/Crlt-Regular.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/lukam/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb>
-Output written on prezentacija.pdf (20 pages, 3917292 bytes).
+Output written on prezentacija.pdf (20 pages, 3917341 bytes).
 PDF statistics:
  1256 PDF objects out of 1440 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
